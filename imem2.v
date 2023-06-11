@@ -1,6 +1,5 @@
 module imem2(
     input [7:0] address,
-    input clear,
     output [7:0] instruction
 );
 
