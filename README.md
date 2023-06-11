@@ -20,4 +20,3 @@ python process.py --file imem1.v
 * [Fictional processor with Python](https://github.com/tdjsnelling/tis-100-python)
 * [Sample Microprocessor Instructions](https://raw.githubusercontent.com/skystar-p/logic-design-test-case/master/test2.test)
 * [16-bit CPU with Verilog](https://github.com/vprabhu28/16-Bit-CPU-using-Verilog)
-* 
