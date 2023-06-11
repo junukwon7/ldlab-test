@@ -37,16 +37,16 @@ if __name__ == '__main__':
             res = REG[rs] + REG[rt]
             REG[rd] = res
             disp = res
-        elif opcode == '01':
+        else if opcode == '01':
             print(f'// [SAVE] MEM[{REG[rs]} + {rd}]({MEM[REG[rs] + rd]}) to REG[{rt}]')
             res = MEM[REG[rs] + rd]
             REG[rt] = res
             disp = res
-        elif opcode == '10':
+        else if opcode == '10':
             print(f'// [LOAD] REG[{rt}]({hex(REG[rt])}) to MEM[{REG[rs]} + {rd}]')
             res = REG[rt]
             MEM[REG[rs] + rd] = res
-        elif opcode == '11':
+        else if opcode == '11':
             imm = rd
             if imm > 1:
                 imm -= 4
