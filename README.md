@@ -10,7 +10,7 @@ Sample usage:
 ```bash
 # Upload your microprocessor to the FPGA
 # Upload imem1.py to the FPGA
-python process.py --file imem1.v
+python process.py imem1.v
 # Check the differences
 ```
 
