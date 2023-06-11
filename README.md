@@ -18,5 +18,5 @@ python process.py imem1.v
 * LDLAB SPEC
 * [Assembly Runner](https://github.com/benWindsorCode/assemblyRunner)
 * [Fictional processor with Python](https://github.com/tdjsnelling/tis-100-python)
-* [Sample](https://raw.githubusercontent.com/skystar-p/logic-design-test-case/master/test2.test) [Microprocessor](https://raw.githubusercontent.com/skystar-p/logic-design-test-case/master/test3.test) [Instructions](https://raw.githubusercontent.com/skystar-p/logic-design-test-case/master/test4.test)
+* [Sample](https://raw.githubusercontent.com/skystar-p/logic-design-test-case/master/test2.test) [Microprocessor](https://raw.githubusercontent.com/skystar-p/logic-design-test-case/master/test3.test) [Instructions](https://raw.githubusercontent.com/skystar-p/logic-design-test-case/master/test4.test) by skystar-p
 * [Turing Complete (GAME)](https://store.steampowered.com/app/1444480/Turing_Complete/)
