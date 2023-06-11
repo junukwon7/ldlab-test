@@ -16,7 +16,7 @@ python process.py --file imem1.v
 
 # Reference
 * LDLAB SPEC
-* [RISC processor with Verilog](https://www.fpga4student.com/2017/04/verilog-code-for-16-bit-risc-processor.html)
+* [TIS-100 Runner (GAME)]([https://www.fpga4student.com/2017/04/verilog-code-for-16-bit-risc-processor.html](https://github.com/benWindsorCode/assemblyRunner))
 * [Fictional processor with Python](https://github.com/tdjsnelling/tis-100-python)
 * [Sample](https://raw.githubusercontent.com/skystar-p/logic-design-test-case/master/test2.test) [Microprocessor](https://raw.githubusercontent.com/skystar-p/logic-design-test-case/master/test3.test) [Instructions](https://raw.githubusercontent.com/skystar-p/logic-design-test-case/master/test4.test)
-* [16-bit CPU with Verilog](https://github.com/vprabhu28/16-Bit-CPU-using-Verilog)
+* [Turing Complete (GAME)](https://store.steampowered.com/app/1444480/Turing_Complete/)
